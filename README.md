@@ -1,17 +1,29 @@
-## "Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
-<div align="center">
+### Hi there 👋
+
+Hi 😃, I'm **Anderson Leite**, currently pursuing a degree in **Computer Science** at the Federal University of Campina Grande (UFCG) in Brazil. My passion lies in the dynamic world of mobile app development, where I specialize in creating captivating user experiences with Flutter. Additionally, I'm well-versed in crafting robust and efficient back-end solutions using Java Spring Boot.
+
+- 💻 Tools and Technologies:
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "30" height = "30"/></code>
+
+- 🌱 I'm currently learning:
+
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = "30" height = "30"/></code>
+     
   <a href="https://github.com/andersonlleite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonlleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlleite&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
-
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 
 
 </div>
